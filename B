@@ -1,0 +1,1 @@
+Code B is updated to check the Poll SCM functionality in Jenkins
